@@ -1,1 +1,1 @@
-# 02393-programming-in-c-plus-plus
+# 02393-programming-in-cpp
