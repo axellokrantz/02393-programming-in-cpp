@@ -1,4 +1,4 @@
-# 02393-Programming-in-C++
+# 02393-Programming-in-cpp
 ## Course contents
 The course teaches C++ for the working programmer. The focus is on how to make use of the C++ constructs and libraries for the most common kinds of problems in an efficient way and to write programs in an elegant and abstract way. This includes the effective use of C++ constructs and concepts as well as how to apply good engineering principles in C++.
 
